@@ -69,7 +69,7 @@ namespace ADPAutomation.Features
         {
 #line 5
 #line 6
- testRunner.Given("I am logged in to ADP with user \" \" and password \"\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+ testRunner.Given("I am logged in to ADP with user \" \" and password \" \"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
         }
         
